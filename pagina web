@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+     <link rel="stylesheet" href="style.css">
+     <title> Cada decisión que tomes afectará el curso de la historia </title>
+</head>
+<body>
+
+   <div class="head">
+
+   <div class="logo">
+         <a href="logo.png">LOGO</a>
+
+</a>
+
+   </div>
+   <nav class="navbar">
+       <a href="#">Inicio</a>
+       <a href="#">Juego</a>
+       <a href="python3.11.exe">Reencuentro de Habilidades</a>
+       <a href="tabla.docx">Tabla de Datos del Juego</a>
+       <a href="#">Cronograma</a>    
+       <a href="#">Wireframe</a>    
+       <a href="juego.py">Código del juego</a>
+       <a href="https://docs.google.com/forms/d/e/1FAIpQLSe1N04_CMT-Fp3G0nyT7eJQ3Dux9rlmN6X9pMfBlQAbr7KXeg/viewform">Formulario de Satisfacción</a>
+   </nav>
+
+   </div>
+
+   <header class="content header">
+
+        <h2 class="title">  Inicio  </h2>
+        <p>
+       En el vasto océano del saber, la investigación es el faro que ilumina nuestros horizontes, y en su luz descubrimos la grandeza que nos convierte en almas más completas y sabias.
+       </p>
+       <a href="investigacion.pdf" class="btn">Saber más</a>
+
+   </header>
+
+   <section class="content sau">
+     <h2> OBJETIVOS </h2>
+<br>
+ <p>
+  Nuestro objetivo como creadores de este juego es proporcionar una
+  experiencia emocionante y desafiante para los jugadores que
+  disfrutan de los juegos de detectives y misterio. Queremos que
+  los jugadores se sientan inmersos en la historia y
+  emocionados por resolver el crimen y encontrar a los
+  responsables.
+ </p>
+
+       <div class="box-container">
+
+       <div class="box">
+           <i class="fab fa-angular"></i>
+        <h3>Primer Palabra Clave</h3>
+        <p>Misterio</p>
+       </div> 
+
+<div class="box">
+           <i class="fab fa-apple"></i>
+        <h3>Segunda Palabra Clave</h3>
+        <p>Acertijos</p>
+        </div> 
+
+<div class="box">
+        <i class="fab fa-android"></i>
+        <h3>Tercera Palabra clave</h3>
+        <p>Detective</p>
+       </div> 
+
+       </div>  
+   </section>
+   
+   <section class="content price">
+    <article class="contain">
+       <h2 class="title">Video Introduccion</h2>
+       <p>El entendimiento de nuestras acciones se basa en lo primero que miramos</p>
+      <a href="#" class="btn">Ver Video</a>
+    </article>
+   </section>
+   
+   <section class="content about">
+   <h2 class="title">Acerca de Nosotros</h2>
+   <div class="box-container2">
+     <div class="box">
+       <img src="nicolas.jpeg" alt="Nicolas">
+       <h3> Asesor del juego </h3>
+        <div class="stars">
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+        </div>
+     </div>
+     <div class="box">
+       <img src="juan.jpeg" alt="Juan">
+       <h3> Asesor del juego </h3>
+       <div class="stars">
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+       </div>
+     </div>
+     <div class="box">
+       <img src="daniela.jpeg" alt="Daniela">
+       <h3> Asesor del juego </h3>
+       <div class="stars">
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+         <i class="fas fa-star"></i>
+       </div>
+     </div>
+   </div>
+   </section>
+   
+   <section class="content contact">
+     <h2 class="title">Fin de la Creación del Juego</h2>
+     <div class="footer-section">
+     </div>
+     <figure> 
+            <img src="fondo.jpg" height="220px" width="100%" alt="Fondo">
+     </figure>
+   </section>
+ 
+</body>
+</html>
